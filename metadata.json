@@ -1,0 +1,6 @@
+{
+  "name": "매칭온 (MatchingOn) - 외국인 & 일용직·장기 초이스 구인구직 플랫폼",
+  "description": "외국인 근로자 비자별 맞춤 매칭, 당일 일용직 및 장기 전문인력 다이렉트 초이스 매칭, 일반 채용 공고를 제공하는 종합 인력 매칭 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
